@@ -1,2 +1,2 @@
-# WP Plugin: disable WP comments
+# WordPress Plugin: disable WP comments
 Disable WordPress comments
